@@ -9,4 +9,4 @@ Chenghan Li,Mingchen Li,Yipu Liao,Ruisheng Diao(ZJU-UIUC)
 
 ####  **_Results_** 
 ![输入图片说明](Figure/electricity_autoformer_24.png)
- **Autoformer--MSE: MAE:** 
+ **Autoformer--MSE:0.0030 MAE:0.0416** 
