@@ -24,3 +24,5 @@ Chenghan Li,Mingchen Li,Yipu Liao,Ruisheng Diao(ZJU-UIUC)
 **MICN--MSE:0.0032 MAE:0.0435**
 ![输入图片说明](Figure/electricity_TiDE_24.png)
 **TiDE--MSE:0.0034 MAE:0.0446**
+![输入图片说明](Figure/electricity_TimesNet_24.png)
+**TimesNet--MSE:0.0035 MAE:0.0463**
