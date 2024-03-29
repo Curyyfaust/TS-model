@@ -14,3 +14,5 @@ Chenghan Li,Mingchen Li,Yipu Liao,Ruisheng Diao(ZJU-UIUC)
 **ConvTS--MSE:0.0027 MAE:0.0391** 
 ![输入图片说明](Figure/electricity_Dlinear_24.png)
 **Dlinear--MSE:0.0030 MAE:0.0415** 
+![输入图片说明](Figure/electricity_FEDformer_24.png)
+**FEDformer--MSE:0.0045 MAE:0.0528** 
