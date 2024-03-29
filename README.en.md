@@ -18,3 +18,5 @@ Chenghan Li,Mingchen Li,Yipu Liao,Ruisheng Diao(ZJU-UIUC)
 **FEDformer--MSE:0.0045 MAE:0.0528** 
 ![输入图片说明](Figure/electricity_FiLM_24.png)
 **FiLM--MSE:0.0026 MAE:0.0385** 
+![输入图片说明](Figure/electricity_LSTNet_24.png)
+**LSTNet--MSE:0.0026 MAE:0.0382** 
