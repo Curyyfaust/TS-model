@@ -2,7 +2,8 @@
 
 
 ####  **_Description_** 
-TS_library 
+TS_library contains for 13 baselines models for time series forecasting (Autoformer(2022),ConvTS(our),Dlinear(2023),FEDformer(2022),FiLM(2023),
+LSTNet(2021),MICN(2023),TiDE(2023),TimesNet(2023),informer(2021),PatchTST(2023),Transformer(2020))
 
 ####  _**author**_ 
 Chenghan Li,Mingchen Li,Yipu Liao,Ruisheng Diao(ZJU-UIUC)
