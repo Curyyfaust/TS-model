@@ -29,3 +29,5 @@ Chenghan Li,Mingchen Li,Yipu Liao,Ruisheng Diao(ZJU-UIUC)
 **TimesNet--MSE:0.0035 MAE:0.0463**
 ![输入图片说明](Figure/electricity_PatchTST_24.png)
 **PatchTST--MSE:0.0.0023 MAE:0.0357**
+![输入图片说明](Figure/electricity_informer_24.png)
+**informer--MSE:0.0.0067 MAE:0.0686**
