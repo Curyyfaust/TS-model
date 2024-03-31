@@ -33,3 +33,5 @@ Chenghan Li,Mingchen Li,Yipu Liao,Ruisheng Diao(ZJU-UIUC)
 **informer--MSE:0.0.0067 MAE:0.0686**
 ![输入图片说明](Figure/electricity_NSTransformer_24.png)
 **NSTransformer--MSE:0.0.0019 MAE:0.0314**
+![输入图片说明](Figure/electricity_Transformer_24.png)
+**Transformer--MSE:0.0.0033 MAE:0.0406**
